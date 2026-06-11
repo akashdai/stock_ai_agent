@@ -6,6 +6,10 @@ An interactive stock market analysis and forecasting application built using Pyt
 
 AI Stock Agent helps users analyze historical stock performance and generate 30-day forecasts using machine learning techniques. The application provides interactive visualizations, trend detection, candlestick charts, and future price predictions through an intuitive web interface.
 
+## Live Demo
+
+https://ai-stock-agent-6mh38l3utcxlws9ht9y6ye.streamlit.app/
+
 ## Features
 
 ### 📊 Stock Analysis
