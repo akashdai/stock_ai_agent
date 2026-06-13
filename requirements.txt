@@ -1,8 +1,8 @@
 streamlit
 pandas
-matplotlib
 numpy
 plotly
+prophet
 yfinance
 scikit-learn
 statsmodels
